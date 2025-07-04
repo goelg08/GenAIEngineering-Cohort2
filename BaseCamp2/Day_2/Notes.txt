@@ -1,0 +1,3 @@
+https://realpython.com/python-iterators-iterables/
+https://realpython.com/introduction-to-python-generators/
+https://realpython.com/python-exceptions/

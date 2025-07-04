@@ -8,7 +8,7 @@ print("Hello, World!")
 print("Welcome to Python programming!")
 
 # You can print numbers too
-print(42)
+print(42) 
 print(3.14)
 
 # Try running this file by typing: python 01_hello_world.py
