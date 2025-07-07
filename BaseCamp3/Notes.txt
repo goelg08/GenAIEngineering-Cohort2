@@ -1,0 +1,12 @@
+Explore :
+You can earn money via developing APIs over net.
+Search in google "How to earn money for APIs"
+
+render.com for deploying APIs
+Also can be dockerize.
+
+streamlit.io and gradio.app (Frontend)
+
+We use streamlit for frontend and render for Backend APIs and both interact with each other.
+
+command is "streamlit run file.py"

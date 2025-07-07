@@ -1,0 +1,20 @@
+Hugging face : First place for Gen-AI news after X/Twitter.
+
+Models are artifacts 
+
+ByteDance have very good models on hugging face.
+
+Training data, Training Algo, Training Architecture.
+
+Mixture of experts.
+Active Parameters.
+Expert routers.
+
+
+Bigger Models = Smarter Model = More compute/cost.
+Evaluations (Evals)
+Benchmark
+
+Hugging face pipelines
+
+Whisper Web
